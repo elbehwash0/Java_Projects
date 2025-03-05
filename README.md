@@ -42,7 +42,7 @@ The GUI Calculator is a Java-based application designed to compute the area and 
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/elbehwash0/Java_Projects
+   git clone https://github.com/elbehwash0/Java_Projects.git
    ```
 
 2. **Open the Project**: Use NetBeans or your preferred IDE to open the project. The repository includes all necessary source code and configuration files.
